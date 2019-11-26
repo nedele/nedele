@@ -3,12 +3,32 @@
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Lora|Vollkorn&display=swap');
 
+a:hover {
+    text-decoration: none;
+}
+
 body {
-    font-family: 'Lora', serif;;
+    font-family: 'Lora', serif;
+    ;
+}
+
+.btn {
+    border: 1px solid;
+    border-radius: 18px;
+    display: table;
+    font-family: 'Vollkorn', serif;
+    font-size: 1.2em;
+    font-weight: 900ž;
+    margin:auto;
+    margin-top: 1.2em;
+    padding: 5px 15px;
+    text-align: center;
+    width: auto;
 }
 
 .footer-col-wrapper {
-    font-family: 'Vollkorn', serif;;
+    font-family: 'Vollkorn', serif;
+    ;
 }
 
 details {
@@ -28,7 +48,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Vollkorn', serif;;
+    font-family: 'Vollkorn', serif;
 }
 
 #lunrsearch {
@@ -44,13 +64,15 @@ h6 {
 }
 
 .post-link {
-    font-family: 'Vollkorn', serif;;
+    font-family: 'Vollkorn', serif;
+    ;
     font-weight: 300;
     font-size: 2em;
 }
 
 .post-title {
-    font-family: 'Vollkorn', serif;;
+    font-family: 'Vollkorn', serif;
+    ;
     font-size: 2em;
     font-weight: 500;
 
@@ -58,7 +80,8 @@ h6 {
 
 .site-title,
 .site-nav {
-    font-family: 'Vollkorn', serif;;
+    font-family: 'Vollkorn', serif;
+    ;
 }
 
 .site-title {
