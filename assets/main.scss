@@ -1,4 +1,4 @@
---- 
+---
 --- 
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Lora|Vollkorn&display=swap');
@@ -9,21 +9,24 @@ a:hover {
 
 body {
     font-family: 'Lora', serif;
-    ;
 }
 
 .btn {
     border: 1px solid;
     border-radius: 18px;
-    display: table;
+    display: block;
     font-family: 'Vollkorn', serif;
-    font-size: 1.2em;
-    font-weight: 900ž;
+    font-size: 2em;
+    font-weight: 900;
     margin:auto;
     margin-top: 1.2em;
     padding: 5px 15px;
     text-align: center;
     width: auto;
+}
+
+.btn:hover {
+    color: #54A857;
 }
 
 .footer-col-wrapper {
@@ -51,6 +54,10 @@ h6 {
     font-family: 'Vollkorn', serif;
 }
 
+li{
+    font-size: 1.2em;
+}
+
 #lunrsearch {
     border: solid lightgray;
     border-radius: 5px;
@@ -58,6 +65,7 @@ h6 {
     font-family: monospace;
     width: 100%;
 }
+
 
 .post-list-heading {
     display: none;
@@ -73,7 +81,7 @@ h6 {
 .post-title {
     font-family: 'Vollkorn', serif;
     ;
-    font-size: 2em;
+    font-size: 3.2em;
     font-weight: 500;
 
 }
