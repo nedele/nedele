@@ -14,4 +14,4 @@ title: 2019-11-24 > laser game
 ## čo so sebou
 * náhradné oblečenie, zapotíme sa
 
-[[pridám/e sa]](https://www.google.com)
+[[pridám/e sa]](https://forms.gle/uPrrtEvy3oXR1u2h8)
