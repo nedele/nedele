@@ -19,4 +19,4 @@ title: 2019-11-30 > diviaky v brne
 * mrkvu, jablko či suchý chleba pre diviaky
 * teplo sa obliecť, predpoveď hlási 1°c 
 
-[[pridám/e sa]](https://forms.gle/uprrtevy3oxr1u2h8){:target="_blank"}
+[[pridám/e sa]](https://docs.google.com/forms/d/e/1FAIpQLSdYBMTAsGSe_WU45hLNuZi3f8hkE1aCEMyNZnZz5b-bc2naOg/viewform?usp=sf_link){:target="_blank"}
