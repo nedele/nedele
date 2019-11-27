@@ -6,6 +6,7 @@ title: 2019-11-30 > diviaky v brne
 * Obora Holedná ➔ nakŕmiť diviaky ➔ prejsť pešo na Anthropos
 * 3.8 km
 * [trasa](https://en.mapy.cz/s/posuretaso){:target="_blank"}
+* [viac info](https://www.turistika.cz/mista/obora-holedna/detail)
 
 ## začiatok
 * Mendlovo náměstí, 12.45 na zastávke č. 52
