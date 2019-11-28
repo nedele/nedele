@@ -5,7 +5,7 @@ title: 2019-11-30 > diviaky v brne
 ## kam
 * Obora Holedná ➔ nakŕmiť diviaky ➔ prejsť pešo na Anthropos
 * 3.8 km
-* [trasa](https://en.mapy.cz/s/posuretaso){:target="_blank"}
+* [trasa](https://en.mapy.cz/s/posuretaso)
 * [viac info](https://www.turistika.cz/mista/obora-holedna/detail)
 
 ## začiatok
@@ -20,4 +20,4 @@ title: 2019-11-30 > diviaky v brne
 * mrkvu, jablko či suchý chleba pre diviaky
 * teplo sa obliecť, predpoveď hlási 1°C 
 
-[[pridám/e sa]](https://docs.google.com/forms/d/e/1FAIpQLSdYBMTAsGSe_WU45hLNuZi3f8hkE1aCEMyNZnZz5b-bc2naOg/viewform?usp=sf_link){:target="_blank"}
+[[pridám/e sa]](https://docs.google.com/forms/d/e/1FAIpQLSdYBMTAsGSe_WU45hLNuZi3f8hkE1aCEMyNZnZz5b-bc2naOg/viewform?usp=sf_link)
