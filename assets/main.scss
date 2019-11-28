@@ -86,13 +86,12 @@ li{
 
 }
 
-.site-title,
 .site-nav {
-    font-family: 'Vollkorn', serif;
-    ;
+    display:none;
 }
 
 .site-title {
+    font-family: 'Vollkorn', serif;
     font-size: 3em;
     font-weight: normal;
     padding: 10px;
