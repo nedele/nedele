@@ -2,6 +2,8 @@
 layout: post
 title: 2019-11-30 > diviaky v brne
 ---
+![2019-12-02-diviaky]({{ site.url }}/assets/2019-12-02-diviaky.jpg)
+
 ## kam
 * Obora Holedná ➔ nakŕmiť diviaky ➔ prejsť pešo na Anthropos
 * 3.8 km
