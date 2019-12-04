@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LES > 30.11.2019 > obora holedná
+title: 30.11.2019 > les > obora holedná
 ---
 ![2019-12-02-diviaky]({{ site.url }}/assets/2019-12-02-diviaky.jpg)
 
