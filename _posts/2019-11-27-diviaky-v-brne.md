@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LES > 30.11.2019 > diviaky v brne
+title: LES > 30.11.2019 > obora holedná
 ---
 ![2019-12-02-diviaky]({{ site.url }}/assets/2019-12-02-diviaky.jpg)
 
