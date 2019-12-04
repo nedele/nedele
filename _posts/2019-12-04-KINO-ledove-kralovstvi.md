@@ -1,9 +1,9 @@
 ---
 layout: post
-title: KINO > 8.12.2019 > frozen 2, scala
+title: KINO > 8.12.2019 > frozen 2
 ---
 ## kam
-* V nedelu do kina na nový Frozen 2
+* V nedelu do kina na nový Frozen 2 v kine Scala
 * [Ledové království II - Univerzitní kino Scala](https://www.kinoscala.cz/cz/film/ledove-kralovstvi-ii-9695)
 
 ## začiatok
