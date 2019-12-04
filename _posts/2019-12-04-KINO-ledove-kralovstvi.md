@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8.12.2019 > KINO > scala > frozen 2
+title: KINO > 8.12.2019 > frozen 2, scala
 ---
 ## kam
 * V nedelu do kina na nový Frozen 2
