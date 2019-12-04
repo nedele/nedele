@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019-11-24 > laser game
+title: 24.11.2019 > laser game
 ---
 ## kam
 * laser game hybešova
