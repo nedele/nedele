@@ -13,7 +13,7 @@ layout: default
         {%- if page.last_modified_at -%}
         Aktualizované: {{ page.last_modified_at | date: date_format }}
         {%- else -%}
-        V nedeľu {{ page.date | date: date_format }}
+        Nedeľa {{ page.date | date: date_format }}
         {%- endif -%}
       </time>
       {%- if page.author -%}
