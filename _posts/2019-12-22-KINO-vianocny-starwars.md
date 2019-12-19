@@ -3,7 +3,7 @@ layout: post
 title:  Star Wars v Scale
 ---
 ## kam
-* [Star Wars: Vzestup Skywalkera (český dabing) | Univerzitní kino Scala](https://www.kinoscala.cz/cz/film/s◘tar-wars-vzestup-skywalkera-cesky-dabing-9742)
+* [Star Wars: Vzestup Skywalkera (český dabing), Univerzitní kino Scala](https://www.kinoscala.cz/cz/film/s◘tar-wars-vzestup-skywalkera-cesky-dabing-9742)
 
 ## začiatok
 * 15.00 
