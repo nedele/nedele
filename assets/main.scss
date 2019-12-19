@@ -1,4 +1,6 @@
---- --- @import "minima";
+---
+--- 
+@import "minima";
 @import url('https://fonts.googleapis.com/css?family=Lora|Vollkorn&display=swap');
 
 a:hover {
@@ -16,7 +18,7 @@ body {
     font-family: 'Vollkorn', serif;
     font-size: 2em;
     font-weight: 900;
-    margin: auto;
+    margin:auto;
     margin-top: 1.2em;
     padding: 5px 15px;
     text-align: center;
@@ -52,7 +54,7 @@ h6 {
     font-family: 'Vollkorn', serif;
 }
 
-li {
+li{
     font-size: 1.2em;
 }
 
@@ -85,7 +87,7 @@ li {
 }
 
 .site-nav {
-    display: none;
+    display:none;
 }
 
 .site-title {
