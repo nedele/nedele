@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30.11.2019 > les > obora holedná
+title: Diviaky v Holedné
 ---
 ![2019-12-02-diviaky]({{ site.url }}/assets/2019-12-02-diviaky.jpg)
 

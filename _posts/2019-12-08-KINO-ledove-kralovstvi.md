@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8.12.2019 > kino > frozen 2
+title: Frozen 2 v Scale
 ---
 ## kam
 * V nedelu do kina na nový Frozen 2 v kine Scala

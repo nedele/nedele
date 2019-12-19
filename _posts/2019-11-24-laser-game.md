@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 24.11.2019 > indoor > laser game
+title:  Laser Game na Hybešové
 ---
 ## kam
 * laser game hybešova
